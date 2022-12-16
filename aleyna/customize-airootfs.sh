@@ -3,7 +3,7 @@ cd /tmp
 
 ### Instally 17g
 apt install wget
-wget https://github.com/The-Aleyna-Tilki-Linux/17g-installer/releases/download/current/17g-installer_1.0_all.deb
+wget https://github.com/mobilturka/17g-installer/raw/master/17g-installer_1.0_all.deb
 apt install ./*.deb -yq --allow-downgrades
 
 #### Disable recommends by default
