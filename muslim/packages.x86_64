@@ -1,0 +1,9 @@
+grub-pc-bin
+grub-efi
+linux-image-amd64
+xinit
+ca-certificates
+kde-standard
+p7zip-full
+
+
