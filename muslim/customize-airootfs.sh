@@ -10,6 +10,10 @@ apt install ./*.deb -yq --allow-downgrades
 wget http://depo.pardus.org.tr/pardus/pool/contrib/q/qmplay2/qmplay2_22.10.23-1~par21_amd64.deb
 apt install ./qmplay2_22.10.23-1~par21_amd64.deb -y
 
+## Apimagelauncher
+wget http://depo.pardus.org.tr/pardus/pool/contrib/a/appimagelauncher/appimagelauncher_2.2.0-travis995.0f91801.bionic_amd64.deb
+apt install ./appimagelauncher_2.2.0-travis995.0f91801.bionic_amd64.deb -y
+
 #### Disable recommends by default
 cat > /etc/apt/apt.conf.d/01norecommend << EOF
 APT::Install-Recommends "0";
