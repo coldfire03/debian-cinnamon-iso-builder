@@ -10,12 +10,13 @@ pavucontrol
 pulseaudio
 ca-certificates
 firefox-esr
-libreoffice
 task-turkish-desktop
 gvfs-backends
 xdg-user-dirs
 gnome-system-monitor
 gnome-screenshot
+gnome-calendar
+gnome-weather
 file-roller
 cinnamon-core
 p7zip-full
@@ -26,7 +27,7 @@ synaptic
 mintstick
 gnome-calculator
 arc-theme
-paper-icon-theme
+papirus-icon-theme
 stacer
 printer-driver-all
 system-config-printer
