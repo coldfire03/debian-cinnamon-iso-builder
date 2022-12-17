@@ -10,7 +10,7 @@ pavucontrol
 pulseaudio
 ca-certificates
 firefox-esr
-task-turkish-desktop
+firefox-esr-l10n-tr
 gvfs-backends
 xdg-user-dirs
 gnome-system-monitor
