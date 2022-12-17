@@ -18,6 +18,9 @@ apt install ./appimagelauncher_2.2.0-travis995.0f91801.bionic_amd64.deb -y
 wget https://github.com/troyeguo/koodo-reader/releases/download/v1.5.1/Koodo.Reader-1.5.1.deb
 apt install ./Koodo.Reader-1.5.1.deb -y
 
+wget http://depo.pardus.org.tr/pardus/pool/non-free/d/diyanet-namazvaktim/diyanet-namazvaktim_1.1_all.deb
+apt install ./diyanet-namazvaktim_1.1_all.deb -y
+
 #### Disable recommends by default
 cat > /etc/apt/apt.conf.d/01norecommend << EOF
 APT::Install-Recommends "0";
