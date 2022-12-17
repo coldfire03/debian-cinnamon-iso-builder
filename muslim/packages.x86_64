@@ -15,6 +15,7 @@ task-turkish-desktop
 gvfs-backends
 xdg-user-dirs
 gnome-system-monitor
+gnome-screenshot
 file-roller
 cinnamon-core
 p7zip-full
@@ -26,10 +27,12 @@ mintstick
 gnome-calculator
 arc-theme
 paper-icon-theme
-mousepad
 audacious
 stacer
 printer-driver-all
 system-config-printer
 simple-scan
 blueman
+gdebi
+gedit
+othman
