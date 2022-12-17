@@ -12,7 +12,9 @@ ca-certificates
 firefox-esr
 libreoffice
 task-turkish-desktop
+gvfs-backends
 xdg-user-dirs
+gnome-system-monitor
 file-roller
 cinnamon-core
 p7zip-full
