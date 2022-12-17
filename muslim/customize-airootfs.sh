@@ -16,7 +16,7 @@ apt install ./appimagelauncher_2.2.0-travis995.0f91801.bionic_amd64.deb -y
 
 ## Koodo reader
 wget https://github.com/troyeguo/koodo-reader/releases/download/v1.5.1/Koodo.Reader-1.5.1.deb
-apt install ./Koodo.Reader-1.5.1.deb
+apt install ./Koodo.Reader-1.5.1.deb -y
 
 #### Disable recommends by default
 cat > /etc/apt/apt.conf.d/01norecommend << EOF
