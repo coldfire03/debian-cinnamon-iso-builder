@@ -26,8 +26,8 @@ apt install ./webapp-manager_1.2.8_all.deb -y
 wget https://github.com/troyeguo/koodo-reader/releases/download/v1.5.1/Koodo.Reader-1.5.1.deb
 apt install ./Koodo.Reader-1.5.1.deb -y
 
-wget https://github.com/muslimos/muslim-about/releases/download/current/pardus-about_0.5.0_all.deb
-apt install ./pardus-about_0.5.0_all.deb -y
+#wget https://github.com/muslimos/muslim-about/releases/download/current/pardus-about_0.5.0_all.deb
+#apt install ./pardus-about_0.5.0_all.deb -y
 
 #### Disable recommends by default
 cat > /etc/apt/apt.conf.d/01norecommend << EOF
