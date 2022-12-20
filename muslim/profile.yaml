@@ -7,7 +7,7 @@ publisher: Muslim Linux <https://github.com/The-Muslim-Linux/>
 label: MUSLIM_LINUX
 application_id: Muslim Linux
 airootfs_directory_pre: airootfs
-linux_args: locales=tr_TR.UTF-8,en_US.UTF-8 keyboard-layouts=tr username=muslim hostname=muslimos user-fullname=muslim noswap quiet
+linux_args: username=muslim hostname=muslimos user-fullname=muslim noswap quiet
 #iso_merge: iso_merge
 grub_cfg: grub.cfg
 packages:
