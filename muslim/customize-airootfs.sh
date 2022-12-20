@@ -29,8 +29,3 @@ apt install ./Koodo.Reader-1.5.1.deb -y
 #wget https://github.com/muslimos/muslim-about/releases/download/current/pardus-about_0.5.0_all.deb
 #apt install ./pardus-about_0.5.0_all.deb -y
 
-#### Disable recommends by default
-cat > /etc/apt/apt.conf.d/01norecommend << EOF
-APT::Install-Recommends "0";
-APT::Install-Suggests "0";
-EOF
