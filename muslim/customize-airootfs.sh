@@ -6,7 +6,11 @@ apt install wget
 wget https://github.com/muslimos/17g-installer/releases/download/current/17g-installer_1.0_all.deb
 apt install ./*.deb -yq --allow-downgrades
 
-## qmplay
+### pardus lightdm greeter
+wget https://github.com/muslimos/muslim-lightdm-greeter/releases/download/current/pardus-lightdm-greeter_0.0.1_all.deb
+apt install ./pardus-lightdm-greeter_0.0.1_all.deb -y
+
+## QMPlay2
 wget http://depo.pardus.org.tr/pardus/pool/contrib/q/qmplay2/qmplay2_22.10.23-1~par21_amd64.deb
 apt install ./qmplay2_22.10.23-1~par21_amd64.deb -y
 
