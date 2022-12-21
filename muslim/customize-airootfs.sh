@@ -15,8 +15,6 @@ wget https://github.com/muslimos/17g-installer/releases/download/current/17g-ins
 wget https://github.com/muslimos/pardus-lightdm-greeter/releases/download/current/pardus-lightdm-greeter_0.0.1_all.deb
 ## QMPlay2
 wget http://depo.pardus.org.tr/pardus/pool/contrib/q/qmplay2/qmplay2_22.10.23-1~par21_amd64.deb
-## Apimagelauncher
-wget http://depo.pardus.org.tr/pardus/pool/contrib/a/appimagelauncher/appimagelauncher_2.2.0-travis995.0f91801.bionic_amd64.deb
 ## Webapp Manager
 wget https://github.com/mobilturka/mt-repo/raw/main/deb/webapp-manager_1.2.8_all.deb
 ## Koodo reader
