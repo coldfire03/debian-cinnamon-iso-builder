@@ -7,6 +7,8 @@ publisher: Muslim Linux <https://github.com/muslimos>
 label: MUSLIM_LINUX
 application_id: Muslim Linux
 airootfs_directory_pre: airootfs
+keyring_package: devuan-keyring
+repository: https://pkgmaster.devuan.org/merged
 linux_args: username=muslim hostname=muslimos user-fullname=muslim noswap quiet
 #iso_merge: iso_merge
 grub_cfg: grub.cfg
