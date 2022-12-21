@@ -3,7 +3,7 @@ hostname: muslim
 distro: debian
 codename: testing
 variant: minbase
-publisher: Muslim Linux <https://github.com/The-Muslim-Linux/>
+publisher: Muslim Linux <https://github.com/muslimos>
 label: MUSLIM_LINUX
 application_id: Muslim Linux
 airootfs_directory_pre: airootfs
