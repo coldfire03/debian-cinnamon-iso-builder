@@ -27,8 +27,8 @@ cinnamon-core
 p7zip-full
 network-manager-gnome
 network-manager
-#inxi
-#synaptic
+inxi
+synaptic
 #mintstick
 #printer-driver-all
 #system-config-printer
