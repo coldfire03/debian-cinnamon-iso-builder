@@ -21,4 +21,7 @@ wget https://github.com/mobilturka/mt-repo/raw/main/deb/webapp-manager_1.2.8_all
 wget https://github.com/troyeguo/koodo-reader/releases/download/v1.5.1/Koodo.Reader-1.5.1.deb
 ### muslim backgrounds
 wget https://github.com/muslimos/muslim-backgrounds/releases/download/current/muslim-backgrounds_1.0_all.deb
+### papirus folder
+https://github.com/mobilturka/mt-repo/raw/main/deb/papirus-folders_1.12.0-1_117_ubuntu22.10.1_all.deb
+
 apt install ./*.deb -yq --allow-downgrades
