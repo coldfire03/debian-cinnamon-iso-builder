@@ -16,9 +16,9 @@ xdg-user-dirs
 gnome-system-monitor
 gnome-calculator
 gnome-screenshot
-#gnome-calendar
-#gnome-weather
-#gdebi
+gnome-calendar
+gnome-weather
+gdebi
 gedit
 #baobab
 file-roller
