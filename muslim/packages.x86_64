@@ -16,8 +16,6 @@ xdg-user-dirs
 gnome-system-monitor
 gnome-calculator
 gnome-screenshot
-gnome-calendar
-gnome-weather
 gdebi
 gedit
 baobab
@@ -29,7 +27,7 @@ network-manager-gnome
 network-manager
 inxi
 synaptic
-mintstick
+#mintstick
 #printer-driver-all
 #system-config-printer
 #simple-scan
@@ -41,3 +39,6 @@ othman
 xterm
 sudo
 islamic-menus
+
+
+
