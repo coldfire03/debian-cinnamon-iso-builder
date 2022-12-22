@@ -7,6 +7,9 @@ APT::Install-Recommends "0";
 APT::Install-Suggests "0";
 EOF
 
+### Cleaning up excess
+rm -rf /usr/share/backgrounds/gnome
+
 ### Install packages
 apt install wget
 ### 17g installer
@@ -23,4 +26,3 @@ wget https://github.com/troyeguo/koodo-reader/releases/download/v1.5.1/Koodo.Rea
 wget https://github.com/muslimos/muslim-backgrounds/releases/download/current/muslim-backgrounds_1.0_all.deb
 ### papirus folder
 apt install ./*.deb -yq --allow-downgrades
-
