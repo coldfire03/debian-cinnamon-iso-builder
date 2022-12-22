@@ -19,6 +19,9 @@ apt install wget
 ### 17g installer
 wget https://github.com/muslimos/17g-installer/releases/download/current/17g-installer_1.0_all.deb
 
+### AppImage launcher
+wget http://depo.pardus.org.tr/pardus/pool/contrib/a/appimagelauncher/appimagelauncher_2.2.0-travis995.0f91801.bionic_amd64.deb
+
 ### pardus lightdm greeter
 wget https://github.com/muslimos/pardus-lightdm-greeter/releases/download/current/pardus-lightdm-greeter_0.0.1_all.deb
 
