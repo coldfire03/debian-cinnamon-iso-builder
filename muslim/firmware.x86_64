@@ -1,5 +1,6 @@
 zd1211-firmware
 firmware-linux
+firmware-linux-nonfree
 firmware-netxen
 firmware-ralink
 firmware-realtek
