@@ -7,6 +7,9 @@ cd /tmp
 #APT::Install-Suggests "0";
 #EOF
 
+### fake systemctl (for nosystemd)
+ln -s true /bin/systemctl || true
+
 ### Cleaning up excess
 rm -rf /usr/share/backgrounds/gnome
 
