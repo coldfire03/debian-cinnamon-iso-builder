@@ -5,7 +5,7 @@ xserver-xorg
 linux-image-amd64
 lightdm
 lightdm-gtk-greeter
-#gnome-themes-extra
+gnome-themes-extra
 arc-theme
 papirus-icon-theme
 pavucontrol
@@ -18,7 +18,6 @@ gnome-calculator
 gnome-screenshot
 gdebi
 gedit
-baobab
 file-roller
 eog
 cinnamon-core
@@ -39,6 +38,3 @@ othman
 xterm
 sudo
 islamic-menus
-
-
-
