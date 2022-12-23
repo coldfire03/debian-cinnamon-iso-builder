@@ -1,5 +1,5 @@
 #!/bin/bash
-# Muslim Linux iso build profile
+# Muslim Linux iso build profile.
 git clone https://gitlab.com/tearch-linux/applications-and-tools/teaiso
 cd teaiso
 sudo apt update
