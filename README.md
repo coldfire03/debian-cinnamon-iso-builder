@@ -6,7 +6,7 @@ The Muslim Linux project aims to provide pure Linux experience by freeing Debian
 Inside the Muslim Linux iso file:
 
 An installer (17g) that allows you to install the system comfortably, 
-GNU/Linux Devuan Testing Base System, 
+GNU/Linux Devuan (Testing) Base System, 
 Cinnamon Desktop, 
 LightDM, Pardus Lightdm Greeter, 
 Arc Theme, Papirus Icon Theme, 
