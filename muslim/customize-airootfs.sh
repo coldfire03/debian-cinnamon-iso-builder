@@ -1,11 +1,8 @@
 #!/usr/bin/env bash
 cd /tmp
 
-#### Disable recommends by default
-#cat > /etc/apt/apt.conf.d/01norecommend << EOF
-#APT::Install-Recommends "0";
-#APT::Install-Suggests "0";
-#EOF
+### Drop no-recommend
+rm /etc/apt/apt.conf.d/01norecommend
 
 ### fake systemctl (for nosystemd)
 ln -s true /bin/systemctl || true
