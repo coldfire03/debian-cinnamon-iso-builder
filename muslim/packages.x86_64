@@ -6,6 +6,7 @@ linux-image-amd64
 lightdm
 lightdm-gtk-greeter
 gnome-themes-extra
+gnome-terminal
 arc-theme
 orchis-gtk-theme
 papirus-icon-theme
@@ -27,7 +28,6 @@ p7zip-full
 network-manager-gnome
 network-manager
 blueman
-inxi
 synaptic
 mintstick
 firefox-esr
