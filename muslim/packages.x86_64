@@ -33,8 +33,8 @@ mintstick
 firefox-esr
 islamic-menus
 othman
-cinnamon-core
-#printer-driver-all
-#system-config-printer
-#simple-scan
+cinnamon
+printer-driver-all
+system-config-printer
+simple-scan
 --install-recommends
