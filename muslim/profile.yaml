@@ -2,6 +2,7 @@ name: muslim
 hostname: muslim
 distro: debian
 codename: testing
+variant: minbase
 publisher: Muslim Linux <https://muslimos.github.io/>
 label: Muslim_Linux
 application_id: Muslim Linux
