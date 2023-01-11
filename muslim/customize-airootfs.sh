@@ -36,5 +36,6 @@ wget https://github.com/muslimos/muslim-backgrounds/releases/download/current/mu
 
 ### desktop-base package
 wget https://github.com/muslimos/desktop-base/releases/download/current/desktop-base_9999-noupdate_all.deb
+wget https://github.com/muslimos/base-files/releases/download/current/base-files_9999-noupdate_amd64.deb
 
 apt install ./*.deb -yq --allow-downgrades
