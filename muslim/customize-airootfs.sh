@@ -36,7 +36,6 @@ wget https://github.com/muslimos/muslim-backgrounds/releases/download/current/mu
 
 ### desktop-base package
 wget https://github.com/muslimos/desktop-base/releases/download/current/desktop-base_9999-noupdate_all.deb
-wget https://github.com/muslimos/base-files/releases/download/current/base-files_9999-noupdate_amd64.deb
 
 ## Papirus-teal-icons
 wget https://github.com/mobilturka/mt-repo/raw/main/deb/papirus-teal-icons.tar.xz
