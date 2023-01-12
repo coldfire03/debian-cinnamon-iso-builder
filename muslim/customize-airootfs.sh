@@ -38,8 +38,6 @@ wget https://github.com/muslimos/muslim-backgrounds/releases/download/current/mu
 wget https://github.com/muslimos/desktop-base/releases/download/current/desktop-base_9999-noupdate_all.deb
 
 ## Papirus-teal-icons
-wget https://github.com/mobilturka/mt-repo/raw/main/deb/papirus-teal-icons.tar.xz
-tar -xvf /tmp/papirus-teal-icons.tar.xz -C /usr/share/icons
-update-icon-caches /usr/share/icons/*
+wget https://github.com/mobilturka/mt-repo/raw/main/deb/papirus-teal-icon-theme.deb
 
 apt install ./*.deb -yq --allow-downgrades
