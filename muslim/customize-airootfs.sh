@@ -11,7 +11,7 @@ ln -s true /bin/systemctl || true
 rm -rf /usr/share/backgrounds/gnome
 
 ### Install packages
-apt install wget -y
+apt install wget
 
 ### 17g installer
 wget https://github.com/muslimos/17g-installer/releases/download/current/17g-installer_1.0_all.deb
