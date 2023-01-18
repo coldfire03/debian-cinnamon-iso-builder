@@ -15,7 +15,7 @@ apt install wget
 
 echo "deb http://deb.librewolf.net bullseye main" | sudo tee /etc/apt/sources.list.d/librewolf.list
 wget https://deb.librewolf.net/keyring.gpg -O /etc/apt/trusted.gpg.d/librewolf.gpg
-sudo apt update
+apt update
 apt install librewolf -y
 
 ## Firefox latest User Installer
