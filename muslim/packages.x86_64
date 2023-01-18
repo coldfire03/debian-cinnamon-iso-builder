@@ -1,5 +1,6 @@
 grub-pc-bin
 grub-efi
+efibootmgr
 xinit
 xserver-xorg
 linux-image-amd64
