@@ -13,14 +13,6 @@ rm -rf /usr/share/backgrounds/gnome
 ### Install packages
 apt install wget -y
 
-echo "deb http://deb.librewolf.net bullseye main" | sudo tee /etc/apt/sources.list.d/librewolf.list
-wget https://deb.librewolf.net/keyring.gpg -O /etc/apt/trusted.gpg.d/librewolf.gpg
-apt update
-apt install librewolf -y
-
-## Firefox latest User Installer
-wget https://github.com/mobilturka/mt-repo/raw/main/deb/firefox_user_installer_0.1.0_amd64.deb
-
 ### 17g installer
 wget https://github.com/muslimos/17g-installer/releases/download/current/17g-installer_1.0_all.deb
 
