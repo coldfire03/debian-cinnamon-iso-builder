@@ -37,7 +37,7 @@ wget https://github.com/mobilturka/mt-repo/raw/main/deb/foliate_2.6.4_all.deb
 wget https://github.com/muslimos/muslim-backgrounds/releases/download/current/muslim-backgrounds_1.0_all.deb
 
 ### desktop-base package
-wget https://github.com/mobilturka/mt-repo/raw/main/deb/desktop-base-9999.deb
+wget https://github.com/muslimos/desktop-base/releases/download/current/desktop-base_9999-noupdate_all.deb
 
 ## Papirus-teal-icons
 wget https://github.com/mobilturka/mt-repo/raw/main/deb/papirus-teal-icon-theme.deb
