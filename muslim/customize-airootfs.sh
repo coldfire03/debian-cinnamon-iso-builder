@@ -48,6 +48,9 @@ wget https://github.com/muslimos/debhane/raw/main/deb/foliate_2.6.4_all.deb
 ## Papirus-teal-icons
 wget https://github.com/muslimos/debhane/raw/main/deb/papirus-teal-icon-theme.deb
 
+### System Monitoring Center
+wget https://github.com/muslimos/debhane/raw/main/system-monitoring-center_1.39.1_all.deb
+
 ### Pardus package installer
 wget http://depo.pardus.org.tr/pardus/pool/main/p/pardus-package-installer/pardus-package-installer_0.5.0~Beta2_all.deb
 
