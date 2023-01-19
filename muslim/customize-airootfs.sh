@@ -31,22 +31,22 @@ wget https://github.com/muslimos/muslim-backgrounds/releases/download/current/mu
 wget https://github.com/muslimos/17g-installer/releases/download/current/17g-installer_1.0_all.deb
 
 ## Firefox latest User Installer
-wget https://github.com/muslimos/debhane/raw/main/deb/firefox_user_installer_0.1.0_amd64.deb
+wget https://github.com/muslimos/debhane/raw/main/firefox_user_installer_0.1.0_amd64.deb
 
 ### AppImage launcher
-wget https://github.com/muslimos/debhane/raw/main/deb/appimagelauncher_2.2.0.deb
+wget https://github.com/muslimos/debhane/raw/main/appimagelauncher_2.2.0.deb
 
 ## QMPlay2 Video and Sound Player
-wget https://github.com/muslimos/debhane/raw/main/deb/qmplay2_22.10.23-1~par21_amd64.deb
+wget https://github.com/muslimos/debhane/raw/main/qmplay2_22.10.23-1~par21_amd64.deb
 
 ## Webapp Manager
 wget https://github.com/muslimos/debhane/raw/main/webapp-manager_1.2.8_all.deb
 
 ## Foliate reader
-wget https://github.com/muslimos/debhane/raw/main/deb/foliate_2.6.4_all.deb
+wget https://github.com/muslimos/debhane/raw/main/foliate_2.6.4_all.deb
 
 ## Papirus-teal-icons
-wget https://github.com/muslimos/debhane/raw/main/deb/papirus-teal-icon-theme.deb
+wget https://github.com/muslimos/debhane/raw/main/papirus-teal-icon-theme.deb
 
 ### System Monitoring Center
 wget https://github.com/muslimos/debhane/raw/main/system-monitoring-center_1.39.1_all.deb
