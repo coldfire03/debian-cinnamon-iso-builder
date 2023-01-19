@@ -37,7 +37,7 @@ wget https://github.com/muslimos/debhane/raw/main/firefox_user_installer_0.1.0_a
 wget https://github.com/muslimos/debhane/raw/main/appimagelauncher_2.2.0.deb
 
 ## QMPlay2 Video and Sound Player
-wget https://github.com/muslimos/debhane/raw/main/qmplay2_22.10.23-1~par21_amd64.deb
+wget https://github.com/muslimos/debhane/raw/main/qmplay2-22-10-23-amd64.deb
 
 ## Webapp Manager
 wget https://github.com/muslimos/debhane/raw/main/webapp-manager_1.2.8_all.deb
