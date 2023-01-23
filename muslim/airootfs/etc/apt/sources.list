@@ -1,2 +1,4 @@
-deb http://pkgmaster.devuan.org/merged testing main contrib non-free
-deb http://pkgmaster.devuan.org/merged stable main contrib non-free
+deb http://deb.debian.org/debian testing main contrib non-free
+deb http://security.debian.org testing-security main
+deb http://deb.debian.org/debian stable main contrib non-free
+

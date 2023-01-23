@@ -1,6 +1,6 @@
-PRETTY_NAME="Muslim Linux"
-NAME="Muslim Linux"
+PRETTY_NAME="Debian-Testing Linux"
+NAME="Debian-Testing Linux"
 VERSION_ID="1.0"
-VERSION="1.0 (Nur)"
-VERSION_CODENAME=muslim
-ID=muslim
+VERSION="1.0"
+VERSION_CODENAME=debiantesting
+ID=debiantesting

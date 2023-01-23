@@ -80,7 +80,7 @@
         "default": false,
         "description": "Use a custom icon and label",
         "tooltip": "Check this to specify a custom icon and label",
-        "value": true
+        "value": false
     },
     "menu-icon": {
         "type": "iconfilechooser",
@@ -89,7 +89,7 @@
         "tooltip": "Select an icon to show in the panel.",
         "default_icon": "cinnamon-symbolic",
         "dependency": "menu-custom",
-        "value": "icon-islam"
+        "value": "cinnamon-symbolic"
     },
     "menu-icon-size": {
         "type": "spinbutton",
@@ -108,7 +108,7 @@
         "description": "Text",
         "tooltip": "Enter custom text to show in the panel.",
         "dependency": "menu-custom",
-        "value": " MuslimOS "
+        "value": "Menu"
     },
     "restrict-menu-height": {
         "type": "switch",

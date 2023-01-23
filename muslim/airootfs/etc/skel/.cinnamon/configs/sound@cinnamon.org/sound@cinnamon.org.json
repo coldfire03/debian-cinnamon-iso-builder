@@ -33,7 +33,8 @@
         "value": [
             "banshee",
             "vlc",
-            "rhythmbox"
+            "rhythmbox",
+            "mpv"
         ]
     },
     "section2": {

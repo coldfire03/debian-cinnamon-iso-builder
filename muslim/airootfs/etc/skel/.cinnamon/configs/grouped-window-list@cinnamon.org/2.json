@@ -158,21 +158,17 @@
     "pinned-apps": {
         "type": "generic",
         "default": [
+            "nemo.desktop",
             "firefox.desktop",
-            "org.gnome.Terminal.desktop",
-            "nemo.desktop"
+            "org.gnome.Terminal.desktop"
         ],
-        "value": [
-            "firefox.desktop",
-            "org.gnome.Terminal.desktop",
-            "nemo.desktop"
-        ]
+        "value": []
     },
     "group-apps": {
         "type": "checkbox",
         "default": true,
         "description": "Group windows by application",
-        "value": true
+        "value": false
     },
     "show-all-workspaces": {
         "type": "checkbox",
@@ -352,5 +348,5 @@
         "description": "Window opacity",
         "value": 100
     },
-    "__md5__": "e40a0b58776e89bfacbd212bc3d55f20"
+    "__md5__": "6f73ea938aeb5481595a809eb6cbe8e3"
 }

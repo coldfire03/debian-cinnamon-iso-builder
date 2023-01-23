@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Name=haritalar
+Comment=Web Uygulaması
+Exec=google-chrome-stable --app="http://www.google.com/maps" --class=WebApp-haritalar6350 --user-data-dir=/home/coldfire/.local/share/ice/profiles/haritalar6350
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=maps
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-haritalar6350
+StartupNotify=true
+X-WebApp-Browser=Chrome
+X-WebApp-URL=http://www.google.com/maps
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true
+

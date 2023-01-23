@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=google-çeviri
+Comment=Web Uygulaması
+Exec=google-chrome-stable --app="https://translate.google.com" --class=WebApp-googleçeviri9555 --user-data-dir=/home/coldfire/.local/share/ice/profiles/googleçeviri9555
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=google-translate
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-googleçeviri9555
+StartupNotify=true
+X-WebApp-Browser=Chrome
+X-WebApp-URL=https://translate.google.com
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

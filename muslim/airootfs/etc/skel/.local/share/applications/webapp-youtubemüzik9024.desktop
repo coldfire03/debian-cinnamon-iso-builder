@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=youtube müzik
+Comment=Web Uygulaması
+Exec=google-chrome-stable --app="https://music.youtube.com" --class=WebApp-youtubemüzik9024 --user-data-dir=/home/coldfire/.local/share/ice/profiles/youtubemüzik9024
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=youtube
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-youtubemüzik9024
+StartupNotify=true
+X-WebApp-Browser=Chrome
+X-WebApp-URL=https://music.youtube.com
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/imwheel
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[tr_TR]=imwheel
+Comment[tr_TR]=Açıklama yok
+X-GNOME-Autostart-Delay=0

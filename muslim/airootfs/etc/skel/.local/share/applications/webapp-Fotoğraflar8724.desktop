@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=Fotoğraflar
+Comment=Web Uygulaması
+Exec=google-chrome-stable --app="https://photos.google.com" --class=WebApp-Fotoğraflar8724 --user-data-dir=/home/coldfire/.local/share/ice/profiles/Fotoğraflar8724
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=google-photos
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Fotoğraflar8724
+StartupNotify=true
+X-WebApp-Browser=Chrome
+X-WebApp-URL=https://photos.google.com
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

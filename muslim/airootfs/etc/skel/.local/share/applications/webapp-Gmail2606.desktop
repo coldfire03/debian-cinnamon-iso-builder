@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Name=Gmail
+Comment=Web Uygulaması
+Exec=google-chrome-stable --app="http://mail.google.com" --class=WebApp-Gmail2606 --user-data-dir=/home/coldfire/.local/share/ice/profiles/Gmail2606
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=web-google-gmail
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Gmail2606
+StartupNotify=true
+X-WebApp-Browser=Chrome
+X-WebApp-URL=http://mail.google.com
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true
+

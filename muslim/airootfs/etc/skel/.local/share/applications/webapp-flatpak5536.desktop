@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Name=flatpak
+Comment=Web Uygulaması
+Exec=google-chrome-stable --app="https://flathub.org/apps/" --class=WebApp-flatpak5536 --user-data-dir=/home/coldfire/.local/share/ice/profiles/flatpak5536
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=com.github.tchx84.Flatseal.Flatpak
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-flatpak5536
+StartupNotify=true
+X-WebApp-Browser=Chrome
+X-WebApp-URL=https://flathub.org/apps/
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true
+

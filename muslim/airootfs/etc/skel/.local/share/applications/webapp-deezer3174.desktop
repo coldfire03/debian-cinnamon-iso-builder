@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Name=deezer
+Comment=Web Uygulaması
+Exec=google-chrome-stable --app="https://www.deezer.com" --class=WebApp-deezer3174 --user-data-dir=/home/coldfire/.local/share/ice/profiles/deezer3174
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=deezer
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-deezer3174
+StartupNotify=true
+X-WebApp-Browser=Chrome
+X-WebApp-URL=https://www.deezer.com
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true
+

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=telegram
+Comment=Web Uygulaması
+Exec=google-chrome-stable --app="https://webk.telegram.org" --class=WebApp-telegram7657 --user-data-dir=/home/coldfire/.local/share/ice/profiles/telegram7657
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=telegram
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-telegram7657
+StartupNotify=true
+X-WebApp-Browser=Chrome
+X-WebApp-URL=https://webk.telegram.org
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

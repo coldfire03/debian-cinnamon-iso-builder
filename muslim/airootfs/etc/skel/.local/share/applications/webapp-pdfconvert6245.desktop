@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=pdf convert
+Comment=Web Uygulaması
+Exec=google-chrome-stable --app="https://www.pdfwordconvert.com/convertform" --class=WebApp-pdfconvert6245 --user-data-dir=/home/coldfire/.local/share/ice/profiles/pdfconvert6245
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=pdfmod
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-pdfconvert6245
+StartupNotify=true
+X-WebApp-Browser=Chrome
+X-WebApp-URL=https://www.pdfwordconvert.com/convertform
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

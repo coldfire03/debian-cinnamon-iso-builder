@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=dosya çeviri
+Comment=Web Uygulaması
+Exec=google-chrome-stable --app="https://www.onlinedoctranslator.com/translationform" --class=WebApp-dosyaçeviri6566 --user-data-dir=/home/coldfire/.local/share/ice/profiles/dosyaçeviri6566
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=document-open
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-dosyaçeviri6566
+StartupNotify=true
+X-WebApp-Browser=Chrome
+X-WebApp-URL=https://www.onlinedoctranslator.com/translationform
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

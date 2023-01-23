@@ -1,15 +1,15 @@
-name: muslim
-hostname: muslim
+name: debian-testing
+hostname: debian-testing
 distro: debian
 codename: testing
 variant: minbase
-publisher: Muslim Linux <https://muslimos.github.io/>
-label: Muslim_Linux
-application_id: Muslim Linux
+publisher: Debian-Testing Linux <https://debian-testing.github.io/>
+label: Debian-testing_Linux
+application_id: Debian-Testing Linux
 airootfs_directory_pre: airootfs
-keyring_package: devuan-keyring
-repository: https://pkgmaster.devuan.org/merged
-linux_args: username=muslim hostname=muslimos user-fullname=muslim noswap quiet
+keyring_package: debian-keyring
+repository: http://deb.debian.org/debian
+linux_args: locales=tr_TR.UTF-8,en_US.UTF-8 keyboard-layouts=tr username=debian-testing hostname=debiantestingos user-fullname=debian-testing noswap quiet
 #iso_merge: iso_merge
 grub_cfg: grub.cfg
 packages:

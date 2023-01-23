@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=google slayt
+Comment=Web Uygulaması
+Exec=google-chrome-stable --app="https://docs.google.com/presentation" --class=WebApp-googleslayt9956 --user-data-dir=/home/coldfire/.local/share/ice/profiles/googleslayt9956
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=google-slides
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-googleslayt9956
+StartupNotify=true
+X-WebApp-Browser=Chrome
+X-WebApp-URL=https://docs.google.com/presentation
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

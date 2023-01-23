@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=spotify
+Comment=Web Uygulaması
+Exec=google-chrome-stable --app="https://open.spotify.com/browse/featured" --class=WebApp-spotify9317 --user-data-dir=/home/coldfire/.local/share/ice/profiles/spotify9317
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=spotify
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-spotify9317
+StartupNotify=true
+X-WebApp-Browser=Chrome
+X-WebApp-URL=https://open.spotify.com/browse/featured
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

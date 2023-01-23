@@ -4,6 +4,9 @@ efibootmgr
 xinit
 xserver-xorg
 linux-image-amd64
+linux-headers-amd64
+nvidia-detect
+#nvidia-legacy-390xx-driver
 lightdm
 lightdm-gtk-greeter
 gnome-themes-extra
@@ -31,11 +34,15 @@ network-manager
 blueman
 synaptic
 mintstick
-#firefox-esr
 islamic-menus
 othman
 cinnamon
 printer-driver-all
 system-config-printer
 simple-scan
+neofetch
+imwheel
+timeshift
+mpv
+plank
 --install-recommends

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=whatsapp
+Comment=Web Uygulaması
+Exec=google-chrome-stable --app="https://web.whatsapp.com" --class=WebApp-whatsapp4983 --user-data-dir=/home/coldfire/.local/share/ice/profiles/whatsapp4983
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=whatsapp
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-whatsapp4983
+StartupNotify=true
+X-WebApp-Browser=Chrome
+X-WebApp-URL=https://web.whatsapp.com
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true
