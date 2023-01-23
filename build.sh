@@ -1,6 +1,9 @@
 #!/bin/bash
 # Muslim Linux iso build profile.
+<<<<<<< Updated upstream:build.sh
 #git clone https://gitlab.com/tearch-linux/applications-and-tools/teaiso
+=======
+>>>>>>> Stashed changes:teaiso/build.sh
 git clone https://github.com/coldfire03/teaisol
 cd teaisol
 sudo apt update
