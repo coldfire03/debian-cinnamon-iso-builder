@@ -24,7 +24,6 @@ gnome-calculator
 gnome-clocks
 gnome-screenshot
 gedit
-xpad
 file-roller
 eog
 atril
@@ -37,12 +36,10 @@ mintstick
 islamic-menus
 othman
 cinnamon
-printer-driver-all
+#printer-driver-all
 system-config-printer
 simple-scan
 neofetch
 imwheel
-timeshift
-mpv
 plank
 --install-recommends
