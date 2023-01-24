@@ -21,7 +21,7 @@ gvfs-backends
 xdg-user-dirs
 gnome-system-monitor
 gnome-calculator
-gnome-clocks
+#gnome-clocks
 gnome-screenshot
 gedit
 file-roller
