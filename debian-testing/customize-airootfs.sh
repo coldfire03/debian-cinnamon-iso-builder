@@ -30,9 +30,9 @@ wget https://github.com/coldfire03/debo/raw/main/xdman_gtk_8.0.18_amd64.deb
 wget https://github.com/muslimos/debhane/raw/main/firefox_user_installer_0.1.0_amd64.deb
 
 ###chrome
-wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | apt-key add -
-echo 'deb [arch=amd64] https://dl.google.com/linux/chrome/deb/ stable main' && apt update
-apt install google-chrome-stable -y
+#wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | apt-key add -
+#echo 'deb [arch=amd64] https://dl.google.com/linux/chrome/deb/ stable main' && apt update
+#apt install google-chrome-stable -y
 
 ## Webapp Manager
 wget https://github.com/muslimos/debhane/raw/main/webapp-manager_1.2.8_all.deb
