@@ -11,7 +11,7 @@ rm -rf /usr/share/backgrounds/gnome
 apt install wget -y
 apt install flatpak -y
 apt install gnome-software-plugin-flatpak -y
-flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo -y
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo 
 ###nvidia non-free
 
 #wget https://github.com/coldfire03/debo/raw/main/cli-shell-utils_0.4.2%2B2_all.deb
