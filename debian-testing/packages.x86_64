@@ -6,7 +6,7 @@ xserver-xorg
 linux-image-amd64
 linux-headers-amd64
 nvidia-detect
-#nvidia-legacy-390xx-driver
+nvidia-legacy-390xx-driver
 lightdm
 lightdm-gtk-greeter
 gnome-themes-extra
