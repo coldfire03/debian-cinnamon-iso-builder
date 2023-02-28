@@ -6,8 +6,8 @@ Exec=google-chrome-stable --app="https://flathub.org/apps/" --class=WebApp-flatp
 Terminal=false
 X-MultipleArgs=false
 Type=Application
-Icon=com.github.tchx84.Flatseal.Flatpak
-Categories=GTK;Network;
+Icon=/home/coldfire/.local/share/ice/icons/flatpak.png
+Categories=GTK;WebApps;
 MimeType=text/html;text/xml;application/xhtml_xml;
 StartupWMClass=WebApp-flatpak5536
 StartupNotify=true

@@ -138,33 +138,47 @@
             "webapps-webapps",
             "Preferences",
             "Administration",
-            "places",
             "recents",
+            "places",
             "/home/coldfire",
-            "emoji:"
+            "emoji:",
+            "Islamic-Software"
         ]
     },
     "custom-menu-width": {
         "type": "generic",
         "default": 800,
-        "value": null
+        "value": 850.4620361328125
     },
     "custom-menu-height": {
         "type": "generic",
         "default": 530,
-        "value": null
+        "value": 624.6109008789062
     },
     "recent-apps": {
         "type": "generic",
         "default": [],
         "value": [
-            "io.elementary.appcenter.desktop",
-            "io.github.hakandundar34coding.system-monitoring-center.desktop:flatpak",
-            "com.github.kagami.boram.desktop:flatpak",
+            "libreoffice-calc.desktop",
+            "org.gnome.Software.desktop",
+            "webapp-flatpak5536.desktop",
+            "google-chrome.desktop",
+            "QMPlay2.desktop",
+            "webapp-ofis1484.desktop",
+            "webapp-manager.desktop",
+            "io.github.hakandundar34coding.system-monitoring-center.desktop",
+            "cinnamon-settings.desktop",
+            "chromium.desktop",
             "synaptic.desktop",
-            "io.github.prateekmedia.appimagepool.desktop:flatpak",
-            "appimagelaunchersettings.desktop",
-            "cinnamon-settings.desktop"
+            "xdm-app.desktop",
+            "org.gnome.Terminal.desktop",
+            "cinnamon-settings-startup.desktop",
+            "nvidia-settings.desktop",
+            "ddm-nvidia.desktop",
+            "tr.org.pardus.software.desktop",
+            "org.gnome.Boxes.desktop",
+            "org.telegram.desktop._01fdb25bb758316782d21cf5096ec3dc.desktop",
+            "anbox.desktop"
         ]
     },
     "search-start-folder": {
@@ -518,7 +532,7 @@
         "default": "Menu",
         "description": "Panel text",
         "tooltip": "Text to show beside the panel icon",
-        "value": "Menu"
+        "value": "MuslimOs"
     },
     "category-icon-size": {
         "type": "spinbutton",
@@ -576,7 +590,7 @@
         "default": false,
         "description": "Use tile style",
         "tooltip": "Use a tile style for the application buttons (Note: may not work on some themes)",
-        "value": true
+        "value": false
     },
     "__md5__": "918c89585c71cb36313fe192c3e2d2a2"
 }
