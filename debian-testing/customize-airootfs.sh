@@ -14,8 +14,8 @@ apt install gnome-software-plugin-flatpak -y
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo 
 ###nvidia non-free
 
-#wget https://github.com/coldfire03/debo/raw/main/cli-shell-utils_0.4.2%2B2_all.deb
-#wget https://github.com/coldfire03/debo/raw/main/ddm-mx_22.12.01mx21_all.deb
+wget https://github.com/coldfire03/debo/raw/main/cli-shell-utils_0.4.2%2B2_all.deb
+wget https://github.com/coldfire03/debo/raw/main/ddm-mx_22.12.01mx21_all.deb
 
 wget https://github.com/coldfire03/debo/raw/main/xdman_gtk_8.0.18_amd64.deb
 
