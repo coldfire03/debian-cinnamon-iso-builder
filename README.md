@@ -4,3 +4,5 @@ Debian testing
 flatpak installed,gnome software flatpak plugin installed
 chromium installed
 cinnamon installed
+Nvidia non-free install script.(mx-linux)
+Teaiso ile oluşruruldu.
