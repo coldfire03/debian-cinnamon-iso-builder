@@ -19,4 +19,4 @@ Nvidia non-free install script.(mx-linux)
 
 Muslim Linux projesi, Debian'ı şişkinliklerden kurtararak saf Linux deneyimi sağlamayı amaçlıyor. Muslim Linux, Debian'ın Deboostap ile kurulumuna dayalıdır ve Debian test havuzlarını kullanır Muslim Linux'un kurulumu ve kullanımı çok kolaydır. Muslim Linux teaiso ile yapılmıştır.
 
-https://raw.githubusercontent.com/coldfire03/debo/main/islam.png
+
