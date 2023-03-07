@@ -10,7 +10,6 @@ rm -rf /usr/share/backgrounds/gnome
 ### Install packages
 apt install wget -y
 apt install flatpak -y
-apt install gnome-software-plugin-flatpak -y
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo 
 ###nvidia non-free
 
